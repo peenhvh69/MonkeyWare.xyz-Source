@@ -1,1 +1,2 @@
-# MonkeyWare.xyz-Source
+# MonkeyWare.xyz Source Leak
+So, basically this is being leaked (this isn't the real source) because skylet (the owner of the xyo paste monkeyware) is a retard. He has claimed multiple times that he is the developer of this (he isn't, the most "developer" work he does is sit in the menu.cpp for an hour just to add one element) I would personally appreciate if he realized what can happen if he doesn't give credit where it's deserved. I personally spent an hour on the actual build of MonkeyWare remaking most of the ragebot. This was just our test source. Also the "DoubleTap" and "HideShots" features in the aimbot doesn't actually work.
